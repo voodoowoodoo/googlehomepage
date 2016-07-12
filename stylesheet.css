@@ -1,13 +1,31 @@
 /* Scaling Logo */
-#logo {width: 272px; height: 92px}
+#logo {
+	width: 272px; 
+	height: 92px
+}
+
+/* Formatting for the central element */
+.logoBox {
+	width: 484px; 
+	margin-left: auto; 
+	margin-right: auto;
+	text-align: center;
+}
+
+.searchBar{
+	width: 484px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
 
 /* Placing and formatting footer and links */
 .footer {
 	background-color: #e9e9e9;
 	padding: 10px 0 10px 0;
-	margin: 0
-
+	margin: 0;
 }
+
 .rightFooterLinks {
 	display: inline;
 	float: right;
