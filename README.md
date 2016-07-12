@@ -1,7 +1,7 @@
 # googlehomepage
 Forming the google homepage with html and css as practice.
 
-This project is a small practice project in getting confortable with HTML and CSS. 
+This project is a small practice project in getting con=mfortable with HTML and CSS. 
 
 The fake homepage is done in Dutch, as the Dutch Google page was the reference page.
 
