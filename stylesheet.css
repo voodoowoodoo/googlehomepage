@@ -3,6 +3,12 @@
 	float: right;
 }
 
+.boxLink {
+	background: #66666d;
+	margin: 1px;
+	height: 2px;
+	width: 2px;
+}
 
 /* Scaling Logo */
 #logo {
@@ -67,8 +73,13 @@
 	border: none;
 	padding: 5px 15px 5px 15px;
 	margin-top: 20px;
+
 }
 
+.button:hover {
+	outline: 1px solid grey;
+	color: black;
+}
 /* Placing and formatting footer and links */
 .footer {
 	position: absolute;
